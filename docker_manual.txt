@@ -1,0 +1,4 @@
+36  docker -v (バージョンの表示)
+54  docker run webapp-docker　（コンテナの起動）
+55  docker run --publish 8000:5000 webapp-docker（ポートを指定してのコンテナの起動）
+ 
